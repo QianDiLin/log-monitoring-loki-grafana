@@ -36,10 +36,9 @@ Example:
    - Vaultwarden container (application logs)  
    - Other homelab services as needed  
 4. Built Grafana dashboards to track error logs, warnings, and service activity  
-
-📷 *Add screenshot of your Grafana dashboard here*  
+ 
 Example:  
-`![Grafana Logs Dashboard](images/Loki-Grafana-Dashboard.png)`
+![Grafana Logs Dashboard](images/Loki_Grafana_Logs.png)
 
 ---
 
