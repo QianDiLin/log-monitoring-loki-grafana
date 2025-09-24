@@ -38,7 +38,7 @@ Example:
 4. Built Grafana dashboards to track error logs, warnings, and service activity  
  
 Example:  
-![Grafana Logs Dashboard](images/Loki_Grafana_Logs.png)
+![Grafana Logs Dashboard](images/Loki-Grafana_Logs.png)
 
 ---
 
